@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactStyled/static/css/main.795991f2.chunk.css",
+    "main.js": "/ReactStyled/static/js/main.82bf379c.chunk.js",
+    "main.js.map": "/ReactStyled/static/js/main.82bf379c.chunk.js.map",
+    "runtime-main.js": "/ReactStyled/static/js/runtime-main.9cc335cb.js",
+    "runtime-main.js.map": "/ReactStyled/static/js/runtime-main.9cc335cb.js.map",
+    "static/js/2.9df1da3e.chunk.js": "/ReactStyled/static/js/2.9df1da3e.chunk.js",
+    "static/js/2.9df1da3e.chunk.js.map": "/ReactStyled/static/js/2.9df1da3e.chunk.js.map",
+    "index.html": "/ReactStyled/index.html",
+    "precache-manifest.77ba40f688a1644d0e9ec0ee0acfaff1.js": "/ReactStyled/precache-manifest.77ba40f688a1644d0e9ec0ee0acfaff1.js",
+    "service-worker.js": "/ReactStyled/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/ReactStyled/static/css/main.795991f2.chunk.css.map",
+    "static/js/2.9df1da3e.chunk.js.LICENSE.txt": "/ReactStyled/static/js/2.9df1da3e.chunk.js.LICENSE.txt",
+    "static/media/boatImage.jpg": "/ReactStyled/static/media/boatImage.d61546cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cc335cb.js",
+    "static/js/2.9df1da3e.chunk.js",
+    "static/css/main.795991f2.chunk.css",
+    "static/js/main.82bf379c.chunk.js"
+  ]
+}
